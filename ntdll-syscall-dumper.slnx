@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ntdll-syscall-dumper/ntdll-syscall-dumper.vcxproj" Id="58f54b1f-5909-4556-8cad-b413f5c7e332" />
+</Solution>
